@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fingeronfire0704
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shawn Lin
+- 👀 I’m interested in machine learning / deep learning techniques
+- 🌱 I’m currently learning ML pipeline
+- 💞️ I’m looking to collaborate on a Kaggle competition
+- 📫 How to reach me? Go check my personal website here https://fingeronfire0704.github.io/SeanWeb/
 
 <!---
 fingeronfire0704/fingeronfire0704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
