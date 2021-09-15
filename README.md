@@ -9,4 +9,4 @@ fingeronfire0704/fingeronfire0704 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/fingeronfire0704/count.svg)
