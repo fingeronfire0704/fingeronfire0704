@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shawn Lin
-- 👀 I’m interested in machine learning / deep learning techniques
-- 🌱 I’m currently learning ML pipeline
-- 💞️ I’m looking to collaborate on a Kaggle competition
+- 👀 I’m interested in ...
+- 🌱 I’m currently ...
+- 💞️ I’m looking to ...
 - 📫 How to reach me? Go check my personal website here https://fingeronfire0704.github.io/SeanWeb/
 
 <!---
